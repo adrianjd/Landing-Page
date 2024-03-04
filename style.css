@@ -1,0 +1,13 @@
+body {
+    display: flex;
+}
+
+.header,
+.content-awesome,
+.footer {
+    background-color: #1F2937;
+}
+
+.content-quote {
+    background-color: #E5E7EB;
+}
