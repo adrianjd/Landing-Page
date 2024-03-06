@@ -42,6 +42,17 @@ a {
 
 .card-left {}
 
+.hero-main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.hero-second {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 button {
     background-color: #3882f6;
     color: #f9faf8;
