@@ -38,8 +38,9 @@ a {
 
 .content-awesome {
     display: flex;
+    align-items: center;
     justify-content: space-between;
-    padding: 150px 150px;
+    padding: 125px 150px;
 }
 
 .hero-main {
