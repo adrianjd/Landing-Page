@@ -67,7 +67,13 @@ button {
 
 .content-info {
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.info-section {
+    display: flex;
+    flex-direction: row;
 }
 
 .info-header {
