@@ -71,15 +71,27 @@ button {
     flex-direction: column;
 }
 
-.info-section {
-    display: flex;
-    flex-direction: row;
-}
-
 .info-header {
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
+}
+
+.info-section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 16px;
+}
+
+.card {
+    border: 3px solid #3882f6;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 6px;
+    width: 100px;
+    height: 100px
 }
 
 .content-quote {
