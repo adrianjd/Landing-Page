@@ -12,3 +12,7 @@ body {
 .content-quote {
     background-color: #E5E7EB;
 }
+
+img {
+    width: 400px;
+}
