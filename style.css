@@ -105,6 +105,11 @@ button {
 
 .content-quote {
     background-color: #E5E7EB;
+    padding: 100px 250px;
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
 }
 
 img {
