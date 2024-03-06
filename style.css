@@ -128,12 +128,15 @@ button {
 
 .action-border {
     display: flex;
-    flex-direction: row;
     border: 4px solid #3882f6;
     border-radius: 8px;
-    padding: 40px 64px;
     width: 75%;
     background-color: #3882f6;
+    width: 500px;
+    height: 100px;
+    padding: 24px 32px;
+    align-items: center;
+    justify-content: center;
 }
 
 .action-main {
@@ -147,10 +150,15 @@ button {
     color: #E5E7EB;
 }
 
-.action-button {
-    border: 2px solid #f9faf8;
+.action-button-container {
     display: flex;
     justify-content: center;
+}
+
+.action-button {
+    border: 2.5px solid #f9faf8;
+    max-width: 150px;
+    padding: 0 24px;
 }
 
 img {
