@@ -42,8 +42,6 @@ a {
     padding: 150px 150px;
 }
 
-.card-left {}
-
 .hero-main {
     font-size: 48px;
     font-weight: bolder;
@@ -66,14 +64,21 @@ button {
     font-size: 18px;
 }
 
-.image-right {}
+.content-info {
+    display: flex;
+    justify-content: center;
+}
 
-
+.info-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
 
 .content-quote {
     background-color: #E5E7EB;
 }
 
 img {
-    width: 500px;
+    max-width: 500px;
 }
