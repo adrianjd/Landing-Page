@@ -39,7 +39,7 @@ a {
 .content-awesome {
     display: flex;
     justify-content: space-between;
-    padding: 100px 150px;
+    padding: 150px 150px;
 }
 
 .card-left {}
@@ -63,6 +63,7 @@ button {
     border-radius: 8px;
     border: 1px solid #3882f6;
     font-weight: bold;
+    font-size: 18px;
 }
 
 .image-right {}
@@ -74,5 +75,5 @@ button {
 }
 
 img {
-    width: 400px;
+    width: 500px;
 }
