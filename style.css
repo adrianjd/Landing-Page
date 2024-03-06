@@ -112,6 +112,14 @@ button {
     color: #1F2937;
 }
 
+.quote-author {
+    text-align: right;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: normal;
+    margin-right: 48px;
+}
+
 img {
     max-width: 500px;
 }
