@@ -134,9 +134,14 @@ button {
     background-color: #3882f6;
     width: 500px;
     height: 100px;
-    padding: 24px 32px;
     align-items: center;
-    justify-content: center;
+    padding: 25px 200px;
+}
+
+.action-text {
+    display: flex;
+    flex-direction: column;
+
 }
 
 .action-main {
