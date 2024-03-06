@@ -37,7 +37,24 @@ a {
 
 .content-awesome {
     display: flex;
+    justify-content: space-around;
 }
+
+.card-left {}
+
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    cursor: pointer;
+    padding: 8px 24px;
+    border-radius: 8px;
+    border: 1px solid #3882f6;
+    font-weight: bold;
+}
+
+.image-right {}
+
+
 
 .content-quote {
     background-color: #E5E7EB;
