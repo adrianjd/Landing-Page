@@ -1,5 +1,5 @@
 body {
-    font-family: Roboto;
+    font-family: roboto;
     display: flex;
     flex-direction: column;
 }
@@ -14,6 +14,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: 900;
 }
 
 ul {
