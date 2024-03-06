@@ -120,6 +120,17 @@ button {
     margin-right: 48px;
 }
 
+.content-action {
+    display: flex;
+    justify-content: center;
+    padding: 100px 150px;
+}
+
+.action-border {
+    display: flex;
+    flex-direction: row;
+}
+
 img {
     max-width: 500px;
 }
